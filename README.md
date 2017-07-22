@@ -1,5 +1,5 @@
 
-Aim of the present project is the design and implementation of an
+Aim of this project is the design and implementation of an
 Quadcopter with the ability of remote control by the user.
 
 Management of the Quadcopter's functions will be carried through the Arduino
